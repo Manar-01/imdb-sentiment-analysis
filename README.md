@@ -9,7 +9,7 @@ This project focuses on **Text Classification** by performing **Sentiment Analys
 - **Dataset**: IMDB movie review dataset with 50,000 labeled reviews (50% positive, 50% negative).
 - **Preprocessing**:
   - Tokenization and vectorization of text data.
-  - Transformation of text into numerical features using techniques like TF-IDF.
+  - Transformation of text into numerical features using Bag of Words.
 - **Model**:
   - Use regression models ( Logistic Regression) from Scikit-Learn.
 - **Evaluation**:
