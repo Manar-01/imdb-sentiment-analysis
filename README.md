@@ -31,3 +31,6 @@ Ensure you have Python 3.7+ and install the required libraries:
 ```bash
 pip install -r requirements.txt
 ```
+### Acknowledgments
+- The IMDB dataset is a standard benchmark dataset for sentiment analysis tasks.
+- This project uses Scikit-Learn for machine learning and text processing.
