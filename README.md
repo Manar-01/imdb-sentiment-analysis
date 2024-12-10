@@ -44,6 +44,12 @@ or use google colab
 - Evaluate the model's performance on the test dataset.
 - Visualize results.
 
+## Dataset
+The IMDB dataset consists of 50,000 movie reviews, evenly split between positive and negative sentiments. The dataset is available through Scikit-Learn's datasets module or can be downloaded from external sources. It is divided into:
+
+- Training set: 25,000 reviews.
+- Test set: 25,000 reviews.
+- 
 ## Dependencies
 - numpy
 - pandas
