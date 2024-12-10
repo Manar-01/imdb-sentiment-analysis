@@ -31,6 +31,32 @@ Ensure you have Python 3.7+ and install the required libraries:
 ```bash
 pip install -r requirements.txt
 ```
+## How to Run
+1. Open the notebook:
+``` bash
+jupyter notebook qa_rag_climate_fever.ipynb
+```
+or use google colab 
+
+2. Follow the steps in the notebook to:
+- Load and preprocess the dataset.
+- Train a regression model for sentiment prediction.
+- Evaluate the model's performance on the test dataset.
+- Visualize results.
+
+## Dependencies
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- nltk
+- tensorflow
+  
+Install them using the requirements.txt file.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ### Acknowledgments
 - The IMDB dataset is a standard benchmark dataset for sentiment analysis tasks.
 - This project uses Scikit-Learn for machine learning and text processing.
