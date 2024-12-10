@@ -49,7 +49,7 @@ The IMDB dataset consists of 50,000 movie reviews, evenly split between positive
 
 - Training set: 25,000 reviews.
 - Test set: 25,000 reviews.
-- 
+  
 ## Dependencies
 - numpy
 - pandas
